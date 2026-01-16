@@ -1,0 +1,11 @@
+.food{
+    background-color: salmon;
+    border: 20px solid crimson;
+    padding: 20px;
+    border-radius: 20px;
+}
+.food img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
